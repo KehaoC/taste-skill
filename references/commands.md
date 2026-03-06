@@ -1,4 +1,4 @@
-# Taste CLI Reference (v1.2.4)
+# Taste CLI Reference (v1.2.5)
 
 ## Core discovery
 
