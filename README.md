@@ -4,7 +4,7 @@ Public distribution of the official Taste skill.
 
 Source of truth:
 
-- https://github.com/KehaoC/Taste/tree/main/skill/taste
+- https://github.com/KehaoC/Taste/tree/main/skill/taste-skill
 
 Install flow:
 
