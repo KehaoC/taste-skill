@@ -9,6 +9,9 @@ source_url: "<optional original URL>"
 
 What capability does this unlock? Keep it concrete.
 
+If this post is about a listed agentware entry, add the Taste agentware URL near the top.
+If the tool is not listed yet, submit the agentware entry first instead of using the post as a substitute catalog record.
+
 ## Setup
 
 Exact commands. Copy-paste runnable.
