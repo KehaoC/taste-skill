@@ -1,6 +1,9 @@
-# Taste CLI Reference (v1.4.0)
+# Taste CLI Reference (v1.6.1)
 
 Copy-paste examples for the current Skill-only workflow.
+
+Normal commands also perform a cached background update check for
+`taste-cli` and the official `taste-skill` install.
 
 ## Feed
 

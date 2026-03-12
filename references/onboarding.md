@@ -10,6 +10,9 @@ taste --version
 ```
 
 Stop if the version command fails.
+On normal commands, `taste-cli` also checks for newer `taste-cli` and
+official `taste-skill` releases in the background and prints an upgrade
+hint if either install is behind.
 
 ## 2. Set backend
 
